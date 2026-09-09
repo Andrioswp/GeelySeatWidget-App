@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/Andrioswp/GeelySeatWidget-App",
+  "generatedAt": "2026-09-09T02:20:50Z",
+  "notes": [
+    "versionCode/versionName and packageName were extracted from the published APK files.",
+    "icon is null because GitHub Releases do not currently contain separate icon assets.",
+    "Yandex Music contains two APK variants with the same package name; preferredAsset points to the float variant."
+  ],
+  "apps": [
+    {
+      "id": "google_key",
+      "title": "Gboard",
+      "packageName": "com.google.android.inputmethod.latin",
+      "releaseTag": "google_key",
+      "releaseName": "GoogleKeyboard",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/google_key",
+      "publishedAt": "2026-09-08T16:04:29Z",
+      "description": "- Добавлена возможно в режиме popup-окна (float) менять размер клавиатуры без ограничений",
+      "versionCode": 175940518,
+      "versionName": "18.0.3.954559732-release-arm64-v8a",
+      "minSdk": 26,
+      "targetSdk": 37,
+      "preferredAsset": "google-keyboard-starship7.apk",
+      "variants": [
+        {
+          "assetName": "google-keyboard-starship7.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/google_key/google-keyboard-starship7.apk",
+          "sizeBytes": 84406248,
+          "sha256": "9093c156f522f9d11b599863808422bd393336fa03da965f4cf557ab65bc3470",
+          "versionCode": 175940518,
+          "versionName": "18.0.3.954559732-release-arm64-v8a"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "hud_speed",
+      "title": "HUD Speed",
+      "packageName": "air.StrelkaHUDFREE",
+      "releaseTag": "hud_speed",
+      "releaseName": "HUDSpeed",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/hud_speed",
+      "publishedAt": "2026-09-08T16:16:09Z",
+      "description": "- Версия, которая работает с моим виджетом и выводит данные на проекцию",
+      "versionCode": 73002001,
+      "versionName": "73.2",
+      "minSdk": 23,
+      "targetSdk": 35,
+      "preferredAsset": "hud-speed-broadcast.apk",
+      "variants": [
+        {
+          "assetName": "hud-speed-broadcast.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/hud_speed/hud-speed-broadcast.apk",
+          "sizeBytes": 17224268,
+          "sha256": "a646d0ced04658ff328ad022d0cd04e4e287b8d34ee72e71dfbe67348e740ad5",
+          "versionCode": 73002001,
+          "versionName": "73.2"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "vk_video",
+      "title": "VK Video",
+      "packageName": "com.vk.vkvideo",
+      "releaseTag": "vk_video",
+      "releaseName": "VKVideo",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/vk_video",
+      "publishedAt": "2026-09-08T16:08:09Z",
+      "description": "- Изменен масштаб под разрешение экрана Starship 7 (Рест)",
+      "versionCode": 999999,
+      "versionName": "9.999",
+      "minSdk": 28,
+      "targetSdk": 35,
+      "preferredAsset": "vkvideo-starship7-rest.apk",
+      "variants": [
+        {
+          "assetName": "vkvideo-starship7-rest.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/vk_video/vkvideo-starship7-rest.apk",
+          "sizeBytes": 115632565,
+          "sha256": "93a14a8904ad0414b711926e1f0cbfac215326abcbd71ce1d5a70948a69f983f",
+          "versionCode": 999999,
+          "versionName": "9.999"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "yandex_nav",
+      "title": "Yandex Navi",
+      "packageName": "ru.yandex.yandexnavi",
+      "releaseTag": "yandex_nav",
+      "releaseName": "YandexNavigator",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_nav",
+      "publishedAt": "2026-09-08T15:53:36Z",
+      "description": "- Добавлена возможность транслировать карту на проекцию в фоне\r\n- Изменен масштаб под разрешение экрана Starship 7 (рест)\r\n- Изменено разрешение основной карты на FullHD для меньшей нагрузки на CPU/GPU, откл. вывод домов в 3D\r\n- Добавлена поддержка вывода озвучки в подголовник\r\n- Вырезана реклама\r\n- Добавлены две кастомные кнопки: режим HUD (для захвата картинка на проекцию) и кнопка Музыки (для просто более удобного доступа, чтобы не тянуться)",
+      "versionCode": 739592300,
+      "versionName": "30.4.1",
+      "minSdk": 26,
+      "targetSdk": 36,
+      "preferredAsset": "yandex-navi-hud-starship7-mod.apk",
+      "variants": [
+        {
+          "assetName": "yandex-navi-hud-starship7-mod.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_nav/yandex-navi-hud-starship7-mod.apk",
+          "sizeBytes": 265663158,
+          "sha256": "6f2e6e34e0ffa7b358fd2e147c9f8ec642f9a8c919c21dc4052f74c6c58277b9",
+          "versionCode": 739592300,
+          "versionName": "30.4.1"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "browser_youtube",
+      "title": "YouTube",
+      "packageName": "com.youtube.m.a2d9545",
+      "releaseTag": "browser_youtube",
+      "releaseName": "YouTubeFreeBrowser",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/browser_youtube",
+      "publishedAt": "2026-09-08T16:20:02Z",
+      "description": "- Браузерная версия YouTube, которая работает без VPN. В настройках можно выбрать язык и размер текста для масштаба",
+      "versionCode": 536,
+      "versionName": "5.3.6.au",
+      "minSdk": 24,
+      "targetSdk": 33,
+      "preferredAsset": "youtube-freebrowser.apk",
+      "variants": [
+        {
+          "assetName": "youtube-freebrowser.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/browser_youtube/youtube-freebrowser.apk",
+          "sizeBytes": 104178935,
+          "sha256": "b39decba68e0c27f1f8373f31e2e12864a4aeef2339297044045192ba7b691cb",
+          "versionCode": 536,
+          "versionName": "5.3.6.au"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "yandex_kino",
+      "title": "Кинопоиск",
+      "packageName": "ru.kinopoisk",
+      "releaseTag": "yandex_kino",
+      "releaseName": "YandexKinopoisk",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_kino",
+      "publishedAt": "2026-09-08T16:06:19Z",
+      "description": "- Изменен масштаб под разрешение экрана Starship 7 (Рест)",
+      "versionCode": 1313574,
+      "versionName": "7.98.1",
+      "minSdk": 24,
+      "targetSdk": 36,
+      "preferredAsset": "yandex-kinopoisk-starship7-rest.apk",
+      "variants": [
+        {
+          "assetName": "yandex-kinopoisk-starship7-rest.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_kino/yandex-kinopoisk-starship7-rest.apk",
+          "sizeBytes": 77923997,
+          "sha256": "b8bb35048aca21776246848ef1cc78f4d2c38a9e17198b8a13dbcd892d9830ac",
+          "versionCode": 1313574,
+          "versionName": "7.98.1"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "yandex_music",
+      "title": "Яндекс Музыка",
+      "packageName": "ru.yandex.music",
+      "releaseTag": "yandex_music",
+      "releaseName": "YandexMusic",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_music",
+      "publishedAt": "2026-09-08T15:55:41Z",
+      "description": "- Изменен масштаб под разрешение экрана Starship 7 (Рест)\r\n- Добавлена модификация (float) для запуска только в окне через виджет",
+      "versionCode": 24026412,
+      "versionName": "2026.08.1 #159.1rur",
+      "minSdk": 24,
+      "targetSdk": 36,
+      "preferredAsset": "float-yandex-music-starship7-rest.apk",
+      "variants": [
+        {
+          "assetName": "float-yandex-music-starship7-rest.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_music/float-yandex-music-starship7-rest.apk",
+          "sizeBytes": 47814210,
+          "sha256": "4392d49987360099972cf283a3329006fb23fd2d9114841462648ba75823d3a9",
+          "versionCode": 24026412,
+          "versionName": "2026.08.1 #159.1rur"
+        },
+        {
+          "assetName": "yandex-music-starship7-rest.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_music/yandex-music-starship7-rest.apk",
+          "sizeBytes": 47797768,
+          "sha256": "71ce716e50b2f5f750ede2ed80289b1c25bac50102d223a7e306fba2576b6b42",
+          "versionCode": 24026412,
+          "versionName": "2026.08.1 #159.1rur"
+        }
+      ],
+      "icon": null
+    }
+  ]
+}
