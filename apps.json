@@ -207,8 +207,8 @@
       "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/AdbActivator",
       "publishedAt": "2026-09-10T09:43:05Z",
       "description": "- Активатор тумблера ADB отдельным приложением",
-      "versionCode": 2,
-      "versionName": "1.1",
+      "versionCode": 3,
+      "versionName": "1.2",
       "minSdk": 28,
       "targetSdk": 34,
       "preferredAsset": "AdbActivator.apk",
@@ -216,10 +216,10 @@
         {
           "assetName": "AdbActivator.apk",
           "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/AdbActivator/AdbActivator.apk",
-          "sizeBytes": 6101658,
-          "sha256": "d8118652dc8d97b5f2d9abf022198ec6e64d24d8594308e9a643212f8ba4b6e4",
-          "versionCode": 2,
-          "versionName": "1.1"
+          "sizeBytes": 6201867,
+          "sha256": "ac3d71249dc15768d42a19d548246dfa46a488890e4a4cd3232ef445683696e1",
+          "versionCode": 3,
+          "versionName": "1.2"
         }
       ],
       "icon": null
