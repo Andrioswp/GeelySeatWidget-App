@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "repository": "https://github.com/Andrioswp/GeelySeatWidget-App",
-  "generatedAt": "2026-09-09T02:20:50Z",
+  "generatedAt": "2026-09-18T10:22:00Z",
   "notes": [
     "versionCode/versionName and packageName were extracted from the published APK files.",
     "icon is null because GitHub Releases do not currently contain separate icon assets.",
@@ -93,10 +93,10 @@
       "releaseTag": "yandex_nav",
       "releaseName": "YandexNavigator",
       "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_nav",
-      "publishedAt": "2026-09-08T15:53:36Z",
-      "description": "- Добавлена возможность транслировать карту на проекцию в фоне\r\n- Изменен масштаб под разрешение экрана Starship 7 (рест)\r\n- Изменено разрешение основной карты на FullHD для меньшей нагрузки на CPU/GPU, откл. вывод домов в 3D\r\n- Добавлена поддержка вывода озвучки в подголовник\r\n- Вырезана реклама\r\n- Добавлены две кастомные кнопки: режим HUD (для захвата картинка на проекцию) и кнопка Музыки (для просто более удобного доступа, чтобы не тянуться)",
-      "versionCode": 739592300,
-      "versionName": "30.4.1",
+      "publishedAt": "2026-09-18T10:22:00Z",
+      "description": "- Отключен слой пробок (TrafficLayer) на проекции в режиме «в фоне» — меньше нагрузка и меньше отвлекает от маршрута\r\n- Добавлена возможность транслировать карту на проекцию в фоне\r\n- Изменен масштаб под разрешение экрана Starship 7 (рест)\r\n- Изменено разрешение основной карты на FullHD для меньшей нагрузки на CPU/GPU, откл. вывод домов в 3D\r\n- Добавлена поддержка вывода озвучки в подголовник\r\n- Вырезана реклама\r\n- Добавлены две кастомные кнопки: режим HUD (для захвата картинка на проекцию) и кнопка Музыки (для просто более удобного доступа, чтобы не тянуться)",
+      "versionCode": 739592301,
+      "versionName": "30.4.2",
       "minSdk": 26,
       "targetSdk": 36,
       "preferredAsset": "yandex-navi-hud-starship7-mod.apk",
@@ -105,9 +105,9 @@
           "assetName": "yandex-navi-hud-starship7-mod.apk",
           "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_nav/yandex-navi-hud-starship7-mod.apk",
           "sizeBytes": 265663158,
-          "sha256": "6f2e6e34e0ffa7b358fd2e147c9f8ec642f9a8c919c21dc4052f74c6c58277b9",
-          "versionCode": 739592300,
-          "versionName": "30.4.1"
+          "sha256": "24a66397c204f980c3f4321e90243280f4deefc21982a1585548e5b58d68cfb1",
+          "versionCode": 739592301,
+          "versionName": "30.4.2"
         }
       ],
       "icon": null
