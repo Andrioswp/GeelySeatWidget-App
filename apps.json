@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "repository": "https://github.com/Andrioswp/GeelySeatWidget-App",
-  "generatedAt": "2026-09-18T10:22:00Z",
+  "generatedAt": "2026-10-04T20:34:05Z",
   "notes": [
     "versionCode/versionName and packageName were extracted from the published APK files.",
     "icon is null because GitHub Releases do not currently contain separate icon assets.",
@@ -194,6 +194,32 @@
           "sha256": "71ce716e50b2f5f750ede2ed80289b1c25bac50102d223a7e306fba2576b6b42",
           "versionCode": 24026412,
           "versionName": "2026.08.1 #159.1rur"
+        }
+      ],
+      "icon": null
+    },
+    {
+      "id": "free_zona",
+      "title": "FreeZona",
+      "packageName": "free.zona",
+      "releaseTag": "FreeZona",
+      "releaseName": "FreeZona",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/FreeZona",
+      "publishedAt": "2026-10-04T20:32:09Z",
+      "description": "- Изменен масштаб под разрешение экрана Starship 7 (Рест)",
+      "versionCode": 1074,
+      "versionName": "3.0.74",
+      "minSdk": 21,
+      "targetSdk": 29,
+      "preferredAsset": "FreeZona_3.0.74_scale_x1.75.apk",
+      "variants": [
+        {
+          "assetName": "FreeZona_3.0.74_scale_x1.75.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/FreeZona/FreeZona_3.0.74_scale_x1.75.apk",
+          "sizeBytes": 21074198,
+          "sha256": "223e3fb13570114e35ef051b83ae478f6e63f7ed9eb9de22102edd0cfd54b74f",
+          "versionCode": 1074,
+          "versionName": "3.0.74"
         }
       ],
       "icon": null
