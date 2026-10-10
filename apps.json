@@ -230,7 +230,7 @@
       "packageName": "ru.yandex.mobile.fmradio",
       "releaseTag": "yandex_radio",
       "releaseName": "YandexRadio",
-      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_radio/yandex_radio_Starship7_float.apk",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_radio",
       "publishedAt": "2026-10-10T07:00:00Z",
       "description": "- Изменен масштаб интерфейса под окно Flyme OS (520 DPI для крупных иконок и текста)\r\n- Принудительно включен смартфонный портретный режим (2 крупные колонки станций)\r\n- Отключена проверка подписи Яндекс Паспорта для авторизации",
       "versionCode": 24026511,
