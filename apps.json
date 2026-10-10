@@ -225,6 +225,32 @@
       "icon": null
     },
     {
+      "id": "yandex_radio",
+      "title": "Яндекс Радио",
+      "packageName": "ru.yandex.mobile.fmradio",
+      "releaseTag": "yandex_radio",
+      "releaseName": "YandexRadio",
+      "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_radio",
+      "publishedAt": "2026-10-10T07:00:00Z",
+      "description": "- Изменен масштаб интерфейса под окно Flyme OS (520 DPI для крупных иконок и текста)\r\n- Принудительно включен смартфонный портретный режим (2 крупные колонки станций)\r\n- Отключена проверка подписи Яндекс Паспорта для авторизации",
+      "versionCode": 24026511,
+      "versionName": "2026.10.1 #34rur",
+      "minSdk": 24,
+      "targetSdk": 36,
+      "preferredAsset": "float-yandex-radio-starship7-rest.apk",
+      "variants": [
+        {
+          "assetName": "float-yandex-radio-starship7-rest.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_radio/float-yandex-radio-starship7-rest.apk",
+          "sizeBytes": 15969254,
+          "sha256": "f18f5003b45696b6fa767dc0deb72b3728fd384e4bf27e1c4c2c4b07e84a7899",
+          "versionCode": 24026511,
+          "versionName": "2026.10.1 #34rur"
+        }
+      ],
+      "icon": null   
+    },
+    {
       "id": "adb_activator",
       "title": "AdbActivator",
       "packageName": "ru.galaxy.adbactivator",
