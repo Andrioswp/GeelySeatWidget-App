@@ -237,11 +237,11 @@
       "versionName": "2026.10.1 #34rur",
       "minSdk": 24,
       "targetSdk": 36,
-      "preferredAsset": "float-yandex-radio-starship7-rest.apk",
+      "preferredAsset": "yandex_radio_Starship7_float.apk",
       "variants": [
         {
-          "assetName": "float-yandex-radio-starship7-rest.apk",
-          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_radio/float-yandex-radio-starship7-rest.apk",
+          "assetName": "yandex_radio_Starship7_float.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_radio/yandex_radio_Starship7_float.apk",
           "sizeBytes": 15969254,
           "sha256": "f18f5003b45696b6fa767dc0deb72b3728fd384e4bf27e1c4c2c4b07e84a7899",
           "versionCode": 24026511,
