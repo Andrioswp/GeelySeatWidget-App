@@ -93,10 +93,10 @@
       "releaseTag": "yandex_nav",
       "releaseName": "YandexNavigator",
       "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_nav",
-      "publishedAt": "2026-09-18T10:22:00Z",
-      "description": "- Отключен слой пробок (TrafficLayer) на проекции в режиме «в фоне» — меньше нагрузка и меньше отвлекает от маршрута",
-      "versionCode": 739592301,
-      "versionName": "30.4.2",
+      "publishedAt": "2026-10-13T18:23:38Z",
+      "description": "- Обновление Я.Навигатора до 31.1.3 с переносом патчей\r\n- Масштаб UI 100/130/150% долгим тапом по иконке HUD (по умолчанию 150%)\r\n- Прозрачный статус-бар, правки указателя в режиме захвата",
+      "versionCode": 739706920,
+      "versionName": "31.1.3",
       "minSdk": 26,
       "targetSdk": 36,
       "preferredAsset": "yandex-navi-hud-starship7-mod.apk",
@@ -104,10 +104,10 @@
         {
           "assetName": "yandex-navi-hud-starship7-mod.apk",
           "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_nav/yandex-navi-hud-starship7-mod.apk",
-          "sizeBytes": 265663158,
-          "sha256": "24a66397c204f980c3f4321e90243280f4deefc21982a1585548e5b58d68cfb1",
-          "versionCode": 739592301,
-          "versionName": "30.4.2"
+          "sizeBytes": 262266830,
+          "sha256": "361c782b2cc568e6c7832612a154c7cfe6ffe03fc92eb993c9849291c51c16f1",
+          "versionCode": 739706920,
+          "versionName": "31.1.3"
         }
       ],
       "icon": null
