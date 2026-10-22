@@ -163,36 +163,28 @@
       ],
       "icon": null
     },
-    {
+{
       "id": "yandex_music",
       "title": "Яндекс Музыка",
       "packageName": "ru.yandex.music",
       "releaseTag": "yandex_music",
       "releaseName": "YandexMusic",
       "releaseUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/tag/yandex_music",
-      "publishedAt": "2026-09-08T15:55:41Z",
-      "description": "- Изменен масштаб под разрешение экрана Starship 7 (Рест)\r\n- Добавлена модификация (float) для запуска только в окне через виджет",
-      "versionCode": 24026412,
-      "versionName": "2026.08.1 #159.1rur",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "description": "- Снижена нагрузка на процессор примерно в 2 раза (с 80-95% до 40-55%)\r\n- Универсальная версия на Рест: масштаб автоматически меняется в полном экране и в окне, без перезапуска и прерывания музыки",
+      "versionCode": 24026503,
+      "versionName": "2026.09.5 #167.2rur",
       "minSdk": 24,
       "targetSdk": 36,
-      "preferredAsset": "float-yandex-music-starship7-rest.apk",
+      "preferredAsset": "YandexMusic-2026.09.5-float-ru-autoscale.apk",
       "variants": [
         {
-          "assetName": "float-yandex-music-starship7-rest.apk",
-          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_music/float-yandex-music-starship7-rest.apk",
-          "sizeBytes": 47814210,
-          "sha256": "4392d49987360099972cf283a3329006fb23fd2d9114841462648ba75823d3a9",
-          "versionCode": 24026412,
-          "versionName": "2026.08.1 #159.1rur"
-        },
-        {
-          "assetName": "yandex-music-starship7-rest.apk",
-          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_music/yandex-music-starship7-rest.apk",
-          "sizeBytes": 47797768,
-          "sha256": "71ce716e50b2f5f750ede2ed80289b1c25bac50102d223a7e306fba2576b6b42",
-          "versionCode": 24026412,
-          "versionName": "2026.08.1 #159.1rur"
+          "assetName": "YandexMusic-2026.09.5-float-ru-autoscale.apk",
+          "downloadUrl": "https://github.com/Andrioswp/GeelySeatWidget-App/releases/download/yandex_music/YandexMusic-2026.09.5-float-ru-autoscale.apk",
+          "sizeBytes": 49200289,
+          "sha256": "3b3d9022b2ad418e4c8d6b02c836b92ec41bf94053c5d895bc20f4de8edf3505",
+          "versionCode": 24026503,
+          "versionName": "2026.09.5 #167.2rur"
         }
       ],
       "icon": null
